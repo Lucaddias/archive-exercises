@@ -1,4 +1,4 @@
-# ZIP Code Search in C (Sequential vs. Binary) 📍
+# ZIP Code Search **Brazil** in C (Sequential vs. Binary) 📍
 
 This project was developed in **C** to demonstrate, in practice, the manipulation of large binary files and the drastic performance difference between the **Sequential Search** and **Binary Search** algorithms.
 
