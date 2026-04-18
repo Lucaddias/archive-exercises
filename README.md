@@ -1,10 +1,10 @@
-# ZIP Code Search **Brazil** in C (Sequential vs. Binary) 📍
+# ZIP Code Search **Brazil** in C (Sequential vs. Binary) 
 
 This project was developed in **C** to demonstrate, in practice, the manipulation of large binary files and the drastic performance difference between the **Sequential Search** and **Binary Search** algorithms.
 
 The program reads a database file (`.dat`) containing hundreds of thousands of Brazilian address records and retrieves the complete information for a specific ZIP code (CEP) entered by the user.
 
-## 🚀 The Problem and the Solution
+## The Problem and the Solution
 
 The database file used (`cep_ordenado.dat`) and (`cep.dat`). Each record is a `struct` with exactly 300 bytes.
 
