@@ -1,0 +1,20 @@
+# Compiled binaries / objects
+*.o
+*.obj
+*.exe
+*.out
+sequential_search
+binary_search
+indexed_search
+external_merge_sort
+covid_analysis
+btree_join
+
+# Data files and generated output (inputs/outputs, not source)
+*.dat
+*.tmp
+*.csv
+
+# Editor / OS
+.vscode/
+.DS_Store
