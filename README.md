@@ -80,5 +80,4 @@ READMEs for the exact file names.
 
 ---
 
-*Coursework for the File Organization course, CEFET-MG. Rewritten and documented
-in English.*
+*Coursework for the course "ORGANIZAÇÃO DE ESTRUTURAS DE ARQUIVOS" (File Organization and Structures), CEFET-RJ.
